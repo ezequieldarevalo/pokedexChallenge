@@ -1,0 +1,9 @@
+#loading {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 10px;
+  justify-content: center;
+  height: 600px;
+  align-items: center;
+  font-size: 2em;
+}
